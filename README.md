@@ -45,9 +45,3 @@ The API simulates a simple online store with features such as product search, so
 - `GET /products/page`
 - `GET /products/sort-by-category`
 - `GET /products/browse`
-
----
-
-## Running the Project
-
-1. Create virtual environment
